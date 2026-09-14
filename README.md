@@ -39,5 +39,5 @@ Cleaned up the dashboard layout, renamed titles for clarity, adjusted colors for
 
 ## Dashboard Preview
 
-![Dashboard Preview](images/Dashboard%20Preview.png)
+![Dashboard Preview](Dashboard.png)
 
